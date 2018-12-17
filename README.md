@@ -1,3 +1,4 @@
-# CPRecord
-The recording has never been so simple!
-A high quality audio recording software, clear sound quality, long recording time, safe and reliable, efficient sound recording management.
+# 录音助手
+ 界面超级美观的一款录音APP
+录音从未如此简单！
+采用快捷方便的设计，操作非常简单。可以让您随时记录自己的声音。
