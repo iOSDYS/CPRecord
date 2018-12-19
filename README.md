@@ -1,4 +1,4 @@
 # 录音助手
- 界面超级美观的一款录音APP
-录音从未如此简单！
-采用快捷方便的设计，操作非常简单。可以让您随时记录自己的声音。
+ Super beautiful interface of a recording APP
+Recording has never been easier!
+Using fast and convenient design, the operation is very simple. Allows you to record your voice at any time.
